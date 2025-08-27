@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['bed', 'danger', 'fall', 'lie', 'move', 'patient', 'person', 'sit', 'stand', 'walker', 'wheelchair']
+
+roboflow:
+  workspace: aiapplications
+  project: hospital_bed-qt6yg
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aiapplications/hospital_bed-qt6yg/dataset/3
