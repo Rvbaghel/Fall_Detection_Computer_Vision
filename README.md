@@ -1,5 +1,6 @@
 Fall Detection using YOLOv8 (Python)
-📌 Project Overview
+
+📌Project Overview
 
 This project focuses on Fall Detection using YOLOv8.
 It detects whether a person is standing or has fallen using a trained custom YOLOv8 model.
